@@ -7,7 +7,10 @@
     android:layout_marginStart="8dp"
     android:layout_marginTop="10dp"
     android:layout_height="wrap_content">
-
+<View
+    android:layout_width="188dp"
+    android:layout_height="138dp"
+    android:id="@+id/view_bg" />
     <androidx.cardview.widget.CardView
         android:id="@+id/item_card"
         android:layout_width="188dp"
